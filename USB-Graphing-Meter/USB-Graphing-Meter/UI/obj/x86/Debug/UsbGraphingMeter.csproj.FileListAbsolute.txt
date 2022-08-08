@@ -1,0 +1,12 @@
+F:\Tools\_CodeTools\arduino\Digispark_USB-Graphing-Meter-master\USB-Graphing-Meter-master\ui\obj\x86\Debug\UsbGraphingMeter.csprojAssemblyReference.cache
+F:\Tools\_CodeTools\arduino\Digispark_USB-Graphing-Meter-master\USB-Graphing-Meter-master\ui\obj\x86\Debug\GraphingMeter.FormMain.resources
+F:\Tools\_CodeTools\arduino\Digispark_USB-Graphing-Meter-master\USB-Graphing-Meter-master\ui\obj\x86\Debug\GraphingMeter.Properties.Resources.resources
+F:\Tools\_CodeTools\arduino\Digispark_USB-Graphing-Meter-master\USB-Graphing-Meter-master\ui\obj\x86\Debug\UsbGraphingMeter.csproj.GenerateResource.cache
+F:\Tools\_CodeTools\arduino\Digispark_USB-Graphing-Meter-master\USB-Graphing-Meter-master\ui\obj\x86\Debug\UsbGraphingMeter.csproj.CoreCompileInputs.cache
+F:\Tools\_CodeTools\arduino\Digispark_USB-Graphing-Meter-master\USB-Graphing-Meter-master\ui\bin\Debug\GraphingMeter.exe.config
+F:\Tools\_CodeTools\arduino\Digispark_USB-Graphing-Meter-master\USB-Graphing-Meter-master\ui\bin\Debug\GraphingMeter.exe
+F:\Tools\_CodeTools\arduino\Digispark_USB-Graphing-Meter-master\USB-Graphing-Meter-master\ui\bin\Debug\GraphingMeter.pdb
+F:\Tools\_CodeTools\arduino\Digispark_USB-Graphing-Meter-master\USB-Graphing-Meter-master\ui\obj\x86\Debug\UsbGraphingMeter.csproj.CopyComplete
+F:\Tools\_CodeTools\arduino\Digispark_USB-Graphing-Meter-master\USB-Graphing-Meter-master\ui\obj\x86\Debug\GraphingMeter.exe
+F:\Tools\_CodeTools\arduino\Digispark_USB-Graphing-Meter-master\USB-Graphing-Meter-master\ui\obj\x86\Debug\GraphingMeter.pdb
+F:\Tools\_CodeTools\arduino\Digispark_USB-Graphing-Meter-master\USB-Graphing-Meter-master\ui\bin\Debug\LibUsbDotNet.dll
